@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.ConsoleApp2.iml
+/modules.xml
+/projectSettingsUpdater.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+!**/Configuration/**
+!**/Features/**
+!**/Runners/**
+!**/StepDefinition/**
+!**/ConsoleApp2/ConsoleApp2.csproj
+!**/ConsoleApp2/specflow.json
