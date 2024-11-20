@@ -1,4 +1,19 @@
 {
+  "specFlow": {
+    "unitTestProvider": {
+      "name": "NUnit"
+    },
+    "plugins": [
+      {
+        "name": "SpecFlow.Plus.LivingDocPlugin",
+        "type": "Generator"
+      }
+    ]
+  },
+  "livingDocGenerator": {
+    "enabled": true,
+    "filePath": "TestExecution.json"
+  },
   "bindingCulture": {
     "language": "en-us"
   },

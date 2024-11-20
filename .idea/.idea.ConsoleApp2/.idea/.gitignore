@@ -11,10 +11,3 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-
-!**/Configuration/**
-!**/Features/**
-!**/Runners/**
-!**/StepDefinition/**
-!**/ConsoleApp2/ConsoleApp2.csproj
-!**/ConsoleApp2/specflow.json
